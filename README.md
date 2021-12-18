@@ -12,6 +12,10 @@
 - To create ER Diagram - LucidChart
 - To write SQL statements and queries - SQLite3, replit.com
 
+## ER Diagram
+
+![](ER%20Diagram.png)
+
 ## Assumptions Made:
 - Assume no free agents (every player is assigned a team)
 - Assume one captain per team
@@ -31,6 +35,3 @@
   .import Team.csv Team
 ```
 
-## ER Diagram
-
-![](ER%20Diagram.png)
