@@ -6,8 +6,7 @@
 - Hoang Ho 
 - Shubhayu Shrestha 
 
-CSE 3330-004
-Project #1
+
 
 ## Tools Used:
 - To create ER Diagram - LucidChart
@@ -31,3 +30,7 @@ Project #1
   .import Player.csv Player
   .import Team.csv Team
 ```
+
+## ER Diagram
+
+![](ER%20Diagram.png)
